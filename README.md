@@ -5,6 +5,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanyu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## This is me
-👨‍💻 I'm an iOS Developer, working in [Mixin Network](https://developers.mixin.one).
+👨‍💻 iOS Developer
 
-📝 Skills: Swift / SwiftUI / Objc-C / Flutter.
+📝 Swift / SwiftUI / Objc-C / Flutter
+
+🏠 [Mixin Network](https://developers.mixin.one)

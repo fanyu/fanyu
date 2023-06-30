@@ -8,5 +8,3 @@
 👨‍💻 iOS Developer
 
 📝 Swift / SwiftUI / Objc-C / Flutter
-
-🏠 [Mixin Network](https://developers.mixin.one)

@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Edison
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanyu&layout=compact)
-
 ---
 
 ## 👨‍💻 About Me

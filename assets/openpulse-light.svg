@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="300" viewBox="0 0 590 300">
+<rect width="590" height="300" rx="24" fill="#F5F5F7"/>
+<g font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','Helvetica Neue',Helvetica,Arial,sans-serif">
+ <text x="44" y="68" font-size="15" font-weight="600" fill="#6E6E73" letter-spacing="0.1">Menu bar app</text>
+ <text x="44" y="112" font-size="34" font-weight="700" fill="#1D1D1F" letter-spacing="-0.8">OpenPulse</text>
+ <text x="44" y="162" font-size="22" font-weight="400" fill="#1D1D1F" letter-spacing="-0.2">Every AI coding quota,</text>
+ <text x="44" y="192" font-size="22" font-weight="400" fill="#1D1D1F" letter-spacing="-0.2">at a glance.</text>
+ <text x="44" y="252" font-size="17" font-weight="400" fill="#0066CC">View on GitHub ›</text>
+</g>
+</svg>

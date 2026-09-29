@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="590" height="300" viewBox="0 0 590 300">
-<rect width="590" height="300" rx="24" fill="#1D1D1F"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="320" viewBox="0 0 600 320">
+<rect x="0" width="590" height="300" rx="24" fill="#1D1D1F"/>
 <g font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','Helvetica Neue',Helvetica,Arial,sans-serif">
  <text x="44" y="68" font-size="15" font-weight="600" fill="#86868B" letter-spacing="0.1">Menu bar app</text>
  <text x="44" y="112" font-size="34" font-weight="700" fill="#F5F5F7" letter-spacing="-0.8">OpenPulse</text>

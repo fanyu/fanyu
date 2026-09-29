@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+<rect width="1200" height="320" rx="24" fill="#F5F5F7"/>
+<g font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','Helvetica Neue',Helvetica,Arial,sans-serif">
+ <text x="64" y="84" font-size="17" font-weight="600" fill="#6E6E73" letter-spacing="0.1">Coming soon</text>
+ <text x="64" y="132" font-size="40" font-weight="700" fill="#1D1D1F" letter-spacing="-1">More apps on the way.</text>
+ <text x="64" y="206" font-size="24" font-weight="700" fill="#1D1D1F" letter-spacing="-0.4">PasteFlow</text>
+ <text x="64" y="240" font-size="17" fill="#6E6E73">Clipboard history for</text>
+ <text x="64" y="264" font-size="17" fill="#6E6E73">Mac and iPhone.</text>
+ <text x="336" y="206" font-size="24" font-weight="700" fill="#1D1D1F" letter-spacing="-0.4">Flow</text>
+ <text x="336" y="240" font-size="17" fill="#6E6E73">A quiet, clear way to</text>
+ <text x="336" y="264" font-size="17" fill="#6E6E73">manage your money.</text>
+ <text x="608" y="206" font-size="24" font-weight="700" fill="#1D1D1F" letter-spacing="-0.4">Odo</text>
+ <text x="608" y="240" font-size="17" fill="#6E6E73">Ride stats that become</text>
+ <text x="608" y="264" font-size="17" fill="#6E6E73">cards worth sharing.</text>
+ <text x="880" y="206" font-size="24" font-weight="700" fill="#1D1D1F" letter-spacing="-0.4">Reverie</text>
+ <text x="880" y="240" font-size="17" fill="#6E6E73">Your photos, arranged</text>
+ <text x="880" y="264" font-size="17" fill="#6E6E73">into beautiful albums.</text>
+ 
+</g>
+</svg>

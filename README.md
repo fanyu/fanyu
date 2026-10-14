@@ -42,14 +42,6 @@ Open-source utilities and developer tools born from daily workflows:
 
 ---
 
-### ✦ Craft & Philosophy
-
-* **Native First**: True AppKit / SwiftUI feel, SF Pro typography, fluid spring physics, zero frame drops.
-* **Local & Private**: No mandatory accounts, offline-capable, user data stays on device via iCloud / SwiftData.
-* **AI Augmented**: Leveraging autonomous agents and custom toolchains to amplify solo craft.
-
----
-
 <div align="center">
 <sub>Edison (Yu Fan) · Prev @Kwai, @MixinNetwork · Beijing, China</sub>
 </div>

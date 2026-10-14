@@ -22,7 +22,6 @@ def hero(t):
  <text x="600" y="140" font-size="21" font-weight="600" fill="{c['sub']}" letter-spacing="0.2">iOS · macOS · AI</text>
  <text x="600" y="232" font-size="96" font-weight="700" fill="{c['fg']}" letter-spacing="-3">Edison.</text>
  <text x="600" y="290" font-size="28" font-weight="400" fill="{c['fg']}" letter-spacing="-0.3">Native apps, thoughtfully made.</text>
- <text x="600" y="330" font-size="19" font-weight="400" fill="{c['sub']}">Previously at Kwai and Mixin Network.</text>
 </g>
 </svg>'''
 

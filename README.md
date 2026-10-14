@@ -1,17 +1,4 @@
-<div align="center">
-
 # Edison
-**Native Apple Platform Craftsman & AI Tool Builder**
-
-*Crafting fluid, local-first software with relentless attention to detail.*
-
-<br/>
-
-[![Website](https://img.shields.io/badge/Studio-flowwish.app-161922?style=flat-square&logo=safari&logoColor=white)](https://flowwish.app)
-[![Email](https://img.shields.io/badge/Contact-fanyukobe@gmail.com-007AFF?style=flat-square&logo=gmail&logoColor=white)](mailto:fanyukobe@gmail.com)
-[![Swift](https://img.shields.io/badge/Swift-5.10%20%7C%206.0-F05138?style=flat-square&logo=swift&logoColor=white)](https://swift.org)
-
-</div>
 
 ---
 
@@ -38,9 +25,3 @@ Open-source utilities and developer tools born from daily workflows:
 | **[OpenPulse](https://github.com/fanyu/OpenPulse)** | Ultra-lightweight macOS menu bar monitor for CPU, memory, and network activity. | Swift · AppKit |
 | **[BrightnessFlow](https://github.com/fanyu/BrightnessFlow)** | Smooth native brightness and display controller for Apple Silicon & external screens. | Swift · DDC/CI |
 | **[MarkdownFlow](https://github.com/fanyu/MarkdownFlow)** | Floating real-time Markdown & Mermaid diagram preview panel for Xcode. | Swift · XcodeKit |
-
----
-
-<div align="center">
-<sub>Edison (Yu Fan) · Prev @Kwai, @MixinNetwork · Beijing, China</sub>
-</div>

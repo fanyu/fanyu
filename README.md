@@ -38,7 +38,6 @@ Open-source utilities and developer tools born from daily workflows:
 | **[OpenPulse](https://github.com/fanyu/OpenPulse)** | Ultra-lightweight macOS menu bar monitor for CPU, memory, and network activity. | Swift · AppKit |
 | **[BrightnessFlow](https://github.com/fanyu/BrightnessFlow)** | Smooth native brightness and display controller for Apple Silicon & external screens. | Swift · DDC/CI |
 | **[MarkdownFlow](https://github.com/fanyu/MarkdownFlow)** | Floating real-time Markdown & Mermaid diagram preview panel for Xcode. | Swift · XcodeKit |
-| **[rea](https://github.com/fanyu/rea)** | Reverse engineering toolkit orchestrating AI agents down to native binaries. | TypeScript · LLM |
 
 ---
 

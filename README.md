@@ -6,9 +6,9 @@
 
 I build independent software under **[Flowwish](https://flowwish.app)** — native iOS, macOS, watchOS, and visionOS apps designed around system fluid motion, privacy, and calm utility:
 
+* **[Flow](https://flowwish.app)** — All-in-one personal finance tracker for expenses, subscriptions, budgets, and stock & fund portfolios.
 * **[Reverie](https://flowwish.app)** — Turn your favorite photos into an album you can leaf through. Arranged on your own bookshelf.
 * **[Lull](https://flowwish.app)** — Feeding and sleep reminders that break through iOS silent mode for new parents.
-* **[Flow](https://flowwish.app)** — Quiet, offline-first personal wealth and multi-currency tracking on a clear timeline.
 * **[Odo](https://flowwish.app)** — Ride stats that become cards worth sharing with automatic bike maintenance schedules.
 * **[PasteTrail](https://flowwish.app)** — Native clipboard workspace turning copied snippets into instant actions.
 

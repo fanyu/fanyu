@@ -1,6 +1,55 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" alt="Edison — iOS, macOS and AI. Native apps, thoughtfully made." width="100%">
-</picture>
+<div align="center">
 
-<p><a href="https://apps.apple.com/app/id6803735715"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/lull-dark.svg"><img src="assets/lull-light.svg" alt="Lull — a feeding reminder you won't sleep through. View on the App Store." width="100%"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/soon-dark.svg"><img src="assets/soon-light.svg" alt="Coming soon: PasteFlow, Flow, Odo, Reverie" width="100%"></picture><a href="https://github.com/fanyu/OpenPulse"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/openpulse-dark.svg"><img src="assets/openpulse-light.svg" alt="OpenPulse" width="50%"></picture></a><a href="https://github.com/fanyu/BrightnessFlow"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/brightnessflow-dark.svg"><img src="assets/brightnessflow-light.svg" alt="BrightnessFlow" width="50%"></picture></a><a href="https://github.com/fanyu/MarkdownFlow"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/markdownflow-dark.svg"><img src="assets/markdownflow-light.svg" alt="MarkdownFlow" width="50%"></picture></a><a href="https://github.com/fanyu/edison-skills"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/edisonskills-dark.svg"><img src="assets/edisonskills-light.svg" alt="edison-skills" width="50%"></picture></a></p>
+# Edison
+**Native Apple Platform Craftsman & AI Tool Builder**
+
+*Crafting fluid, local-first software with relentless attention to detail.*
+
+<br/>
+
+[![Website](https://img.shields.io/badge/Studio-flowwish.app-161922?style=flat-square&logo=safari&logoColor=white)](https://flowwish.app)
+[![Email](https://img.shields.io/badge/Contact-fanyukobe@gmail.com-007AFF?style=flat-square&logo=gmail&logoColor=white)](mailto:fanyukobe@gmail.com)
+[![Swift](https://img.shields.io/badge/Swift-5.10%20%7C%206.0-F05138?style=flat-square&logo=swift&logoColor=white)](https://swift.org)
+
+</div>
+
+---
+
+### ✦ Studio
+
+I build independent software under **[Flowwish](https://flowwish.app)** — native iOS, macOS, watchOS, and visionOS apps designed around system fluid motion, privacy, and calm utility:
+
+* **[Reverie](https://flowwish.app)** — Turn your favorite photos into an album you can leaf through. Arranged on your own bookshelf.
+* **[Lull](https://flowwish.app)** — Feeding and sleep reminders that break through iOS silent mode for new parents.
+* **[Flow](https://flowwish.app)** — Quiet, offline-first personal wealth and multi-currency tracking on a clear timeline.
+* **[Odo](https://flowwish.app)** — Ride stats that become cards worth sharing with automatic bike maintenance schedules.
+* **[PasteTrail](https://flowwish.app)** — Native clipboard workspace turning copied snippets into instant actions.
+
+👉 *Explore full interactive previews, releases, and design notes at **[flowwish.app ↗](https://flowwish.app)***
+
+---
+
+### ✦ Open Source & Tools
+
+Open-source utilities and developer tools born from daily workflows:
+
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **[OpenPulse](https://github.com/fanyu/OpenPulse)** | Ultra-lightweight macOS menu bar monitor for CPU, memory, and network activity. | Swift · AppKit |
+| **[BrightnessFlow](https://github.com/fanyu/BrightnessFlow)** | Smooth native brightness and display controller for Apple Silicon & external screens. | Swift · DDC/CI |
+| **[MarkdownFlow](https://github.com/fanyu/MarkdownFlow)** | Floating real-time Markdown & Mermaid diagram preview panel for Xcode. | Swift · XcodeKit |
+| **[rea](https://github.com/fanyu/rea)** | Reverse engineering toolkit orchestrating AI agents down to native binaries. | TypeScript · LLM |
+
+---
+
+### ✦ Craft & Philosophy
+
+* **Native First**: True AppKit / SwiftUI feel, SF Pro typography, fluid spring physics, zero frame drops.
+* **Local & Private**: No mandatory accounts, offline-capable, user data stays on device via iCloud / SwiftData.
+* **AI Augmented**: Leveraging autonomous agents and custom toolchains to amplify solo craft.
+
+---
+
+<div align="center">
+<sub>Edison (Yu Fan) · Prev @Kwai, @MixinNetwork · Beijing, China</sub>
+</div>
